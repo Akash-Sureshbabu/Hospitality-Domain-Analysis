@@ -27,6 +27,9 @@ Realisation % and ADR by Booking Platform (Line Bar Chart)
 Table which Contain all important element (Property ID, Property name, City, Revenue, RevPAR, DSRN, DBRN, DURN, Occupancy %, ADR, Realisation %, Cancallation %, Average Rating)
 
 Filter of (CIty, Room Class, Room category, Months, Weeks)
+
+Tooltip for all the KPIS
+
 ## Key learning: 
  
  Domain knowledge
